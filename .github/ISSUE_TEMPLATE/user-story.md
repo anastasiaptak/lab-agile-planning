@@ -14,8 +14,8 @@ assignees: anastasiaptak
 ### Details and Assumptions
 * [document what you know]
 
-'''gherkin
+```gherkin
 Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed]
-'''
+```
